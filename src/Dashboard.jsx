@@ -307,7 +307,7 @@ const Dashboard = () => {
     {
       code: 'STN-ISO-POL-A-B',
       name: 'Políticas A y B (Seguridad física y uso seguro de POS)',
-      file: '/data/ISO 27001.pdf',
+      file: 'https://drive.google.com/file/d/1mwB6_9cYDaJrx76m6LGoMv4Tfnr25Ira/view?usp=drive_link',
       source: 'ISO 27001.pdf'
     },
     {
